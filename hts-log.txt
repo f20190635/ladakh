@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Thu, 05 Nov 2020 21:50:20 at http://preview.themeforest.net/item/monalisa-hotel-resort-management-wordpress-theme/full_screen_preview/17339084
+(httrack http://preview.themeforest.net/item/monalisa-hotel-resort-management-wordpress-theme/full_screen_preview/17339084 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:50:22	Warning: 	Link preview.themeforest.net/item/monalisa-hotel-resort-management-wordpress-theme/full_screen_preview/17339084 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (35124 bytes overall) [12761 bytes received at 6380 bytes/sec], 35171 bytes transferred using HTTP compression in 2 files, ratio 32%
+(No errors, 1 warnings, 0 messages)
